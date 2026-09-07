@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    font-family: monospace, serif;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+}
+
+#nav {
+    background-color: black;
+}
+
+#menu {
+    position: absolute;
+    width: 100%;
+    background: #f0f0f0;
+    display: none;
+}
+
+#menu.open {
+    display: block;
+    padding: 16px;
+}
+
+.buttonCategory {
+    display: grid;
+    grid-template-columns: repeat(6, 2fr);
+    column-gap: .5em;
+}
+
+.buttonCategory button {
+    width: 100%;
+    margin-bottom: .3em;
+}
+
+iframe {
+    width: 100%;
+    height: 93vh;
+}
