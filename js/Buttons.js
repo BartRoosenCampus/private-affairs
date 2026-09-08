@@ -4,13 +4,20 @@ export class Buttons {
     buttons = [
         [
             {
-                caption: "Bezoekscheme 2026",
+                caption: "Bezoekschema 2026",
                 src: "https://docs.google.com/spreadsheets/d/1a2_cVVDIomOeFYkNDGKFvnw_vgDts2E3QRl1bkC4kHo/edit?gid=1101797348#gid=1101797348",
                 class: "btn btn-outline-dark",
             },
+        ],
+        [
             {
                 caption: "Toogdienst Klup",
                 src: "https://docs.google.com/spreadsheets/d/1nc-tDv5lfuBQ_TIoT6terHGrxwVp7RNfeWfSFBSNcHs/edit?fbclid=IwY2xjawQsfY5leHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJh5yTXUbhhvyMDt5pyv6Kp4JMNq6AtE2F0zgZ0WxkO6lHWQsWIc8HWt2dBs_aem_fibgaIhYIHwklzau3wWN1g&gid=0#gid=0",
+                class: "btn btn-outline-dark",
+            },
+            {
+                caption: "Klup Karaoke 26/9",
+                src: "https://godesuikerspin-my.sharepoint.com/:x:/g/personal/katrien_vits_desuikerspin_be/IQDz2-uxhukuTIA10L60qLb2AVdx3zJNUwPYnzCW1usChwI?rtime=BaPI-G8N30g",
                 class: "btn btn-outline-dark",
             },
         ],
@@ -40,6 +47,13 @@ export class Buttons {
             {
                 caption: "Health & excersise",
                 src: "https://docs.google.com/spreadsheets/d/1isfAgHKr52Mrb2ftTqcW2tEpaqn965W_mYrUlsAPzXs/edit?gid=0#gid=0",
+                class: "btn btn-outline-dark",
+            },
+        ],
+        [
+            {
+                caption: "Links",
+                src: "https://docs.google.com/spreadsheets/d/1nBofvUizqVBy-oIuzc8PMZYbhuNekMcpZPyUWCdR8DE/edit?gid=0#gid=0",
                 class: "btn btn-outline-dark",
             },
         ],
