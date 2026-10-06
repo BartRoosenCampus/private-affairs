@@ -1,3 +1,52 @@
-.idea/
+# ==========================================
+# IDEs and Code Editors
+# ==========================================
+
+# Visual Studio Code
 .vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains IDEs (IntelliJ, WebStorm, PyCharm, CLion, PhpStorm, Rider, Android Studio, etc.)
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Xcode
+.DS_Store
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkscoredata
+/*.gcda
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings/
+*.tmp
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim / Emacs
+*~
+*.swp
+*.swo
+\#*\#
+.\#*
+
 vendor/

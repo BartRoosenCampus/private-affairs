@@ -52,8 +52,18 @@ export class Buttons {
         ],
         [
             {
-                caption: "Links",
-                src: "https://docs.google.com/spreadsheets/d/1nBofvUizqVBy-oIuzc8PMZYbhuNekMcpZPyUWCdR8DE/edit?gid=0#gid=0",
+                caption: "DHP Leden",
+                src: "https://docs.google.com/spreadsheets/d/1SFTuvDYIK9Sr3HfxNutxKY9mBdDEuOieHom0LCT89qg/edit?usp=drive_link",
+                class: "btn btn-outline-dark",
+            },
+            {
+                caption: "DHP Wedstrijdkalender",
+                src: "https://docs.google.com/spreadsheets/d/1iXVj8Xv2dkjBSMzRtyEfATDNnNZO_7NQK346uV7orQ8/edit?usp=drive_link",
+                class: "btn btn-outline-dark",
+            },
+            {
+                caption: "DHP Vervoersonkosten",
+                src: "https://docs.google.com/spreadsheets/d/1eANVL50nrgh5tRluM3cYs9JOLt_UG_ClxioV1-of-Nw/edit?usp=drive_link",
                 class: "btn btn-outline-dark",
             },
         ],
