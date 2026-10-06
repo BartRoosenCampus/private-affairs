@@ -15,11 +15,6 @@ export class Buttons {
                 src: "https://docs.google.com/spreadsheets/d/1nc-tDv5lfuBQ_TIoT6terHGrxwVp7RNfeWfSFBSNcHs/edit?fbclid=IwY2xjawQsfY5leHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJh5yTXUbhhvyMDt5pyv6Kp4JMNq6AtE2F0zgZ0WxkO6lHWQsWIc8HWt2dBs_aem_fibgaIhYIHwklzau3wWN1g&gid=0#gid=0",
                 class: "btn btn-outline-dark",
             },
-            {
-                caption: "Klup Karaoke 26/9",
-                src: "https://godesuikerspin-my.sharepoint.com/:x:/g/personal/katrien_vits_desuikerspin_be/IQDz2-uxhukuTIA10L60qLb2AVdx3zJNUwPYnzCW1usChwI?rtime=BaPI-G8N30g",
-                class: "btn btn-outline-dark",
-            },
         ],
         [
             {
