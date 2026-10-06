@@ -66,6 +66,11 @@ export class Buttons {
                 src: "https://docs.google.com/spreadsheets/d/1eANVL50nrgh5tRluM3cYs9JOLt_UG_ClxioV1-of-Nw/edit?usp=drive_link",
                 class: "btn btn-outline-dark",
             },
+            {
+                caption: "DHP Clubkas",
+                src: "https://www.aiba.be/EcgJEJXvsGssrMdPSLmfrJpqweAzLpDsSnMokheROnzaZKLppS/desktop/kasboekController.php",
+                class: "btn btn-outline-dark",
+            },
         ],
     ];
 
